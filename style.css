@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200;300;600&family=Open+Sans:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400&display=swap');
+
+body {
+    background-color: #151315;
+    text-decoration: none;
+
+}
+
+.registerhead {
+
+    color: #bbbbbb;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(196, 196, 196);
+    font-size:20px;
+    padding-left: 30px;
+}
+.overlay {
+    max-width: 1070px;
+    min-width: 320px;
+    margin: auto;
+    display: flex;
+    padding: 12px 20px;
+    line-height: normal;
+    min-height: 1px;
+}
+.test { 
+    font-size: 105%;
+}
+.uwusense {
+    text-decoration: none;
+    font-family: "Kanit";
+    font-size: x-large;
+    padding-left: 10px;
+    font-weight: 200;
+    color:#e85a89;
+  }
+
+.box2 { 
+    width: 1080px;
+    background-color: #272726;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+
+}
+
+.boxs {
+    width: 1080px;
+    height: 142px;
+    border-style:none;
+    border-top: 4px solid #e85a89;
+    border-radius: 3px;
+    border-left: 1px solid #353534;
+    border-right: 1px solid #353534;
+    border-bottom: 1px solid #353534;
+    background-color: #272726;
+
+  }
+ .loginboksit{
+    padding: 2px;
+
+
+
+ } 
+  ul {
+    display: flex;
+    list-style: none;
+    list-style-position: flex;
+    padding-left: 10px; 
+  }
+  li {
+    color:#c4c4c4;
+    font-size: 13px;
+    font-family: "Noto Sans JP";
+
+    
+  }
+.hhh3{
+    font-size: small;
+    font-family: sans-serif;
+    text-align: center;
+    color: #bbbbbb;
+    text-decoration: none;
+
+}
+.center {
+    border: 5px solid;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+.logintext{
+    display: initial;
+    align-items: center;
+    background-color:#353534;
+    width: 1080px;
+    height: 34px;
+    padding: 0 1px;
+
+}
+.login {
+    display: flex;
+    align-items: center;
+    background-color:#353534;
+    width: 1080px;
+    height: 34px;
+}
+
+
+.conl{
+    float: left;
+    padding-left: 12px;
+    color:rgb(196, 196, 196);
+    font-size:12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.infobage2 {
+    background-color: #272726;
+    margin-top:20px;
+    float:left;
+    width: 1080px;
+    height:166.4px;
+    border-radius: 3px;
+    border-left: 1px solid #353534;
+    border-right: 1px solid #353534;
+    border-bottom: 1px solid #353534;
+  }
+.infobage {
+    background-color: #272726;
+    margin-top:20px;
+    float:left;
+    width: 1080px;
+    height:116.4px;
+    border-radius: 3px;
+    border-left: 1px solid #353534;
+    border-right: 1px solid #353534;
+    border-bottom: 1px solid #353534;
+  }
+.info {
+    font-weight: 600;
+    font-family: "Kanit";
+    font-size: medium;
+    position: relative;
+    padding: 0px;
+    padding-left: 8px;
+    font-weight: 100;
+    color:#bbbbbb;
+}
+p {
+    color:#eaeaea;
+    font-size: small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 20px
+}
+.graybage {
+    display: flex;
+    background-color: #353534;
+    text-align:left ;
+    align-items: center;
+    padding-top: 1px;
+    height:34px;
+    border-radius: 3px;
+}
+.hrefs {
+
+    text-decoration: none ;
+}
+a:visited {
+    text-decoration: none;
+    color: #bbbbbb; 
+}
+
+.britnybish {
+    font-size: small;
+    font-family: sans-serif;
+    text-align: left;
+    color: #bbbbbb;
+    text-decoration: none;
+    position: relative;top: 60px;right: 50px;
+
+}
+.logbox1{
+    position: relative;top:77px;right: 115px;
+}
+.logbox2{
+    position: relative;top:77px;right: 113px;
+}
+
+.accept {
+    position: relative;top:70px;right: 60px;
+}
+.doyouaccept {
+    position: relative;top:175px;right: 95px;
+}
+
+.backbut2 {
+    position: relative;bottom:20px;right: 0px;
+
+}
